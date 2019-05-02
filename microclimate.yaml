@@ -1,0 +1,17 @@
+extensionId: SVTPythonTemplateec22fbd0-6cef-11e9-9716-f39f36156a07
+buildType: docker
+language: python
+creationType: template
+info:
+    provider: null
+    version: null
+userInterface:
+    label: SVTPythonTemplate
+    description: 'Python template for microclimate SVT.'
+template:
+    giturl: null
+    gitbranch: null
+    localpath: .
+application:
+    port: null
+    contextroot: null
