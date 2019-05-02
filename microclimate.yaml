@@ -1,4 +1,4 @@
-extensionId: SVTPythonTemplateec22fbd0-6cef-11e9-9716-f39f36156a07
+extensionId: SVTPythonTemplate
 buildType: docker
 language: python
 creationType: template
